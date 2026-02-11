@@ -1,0 +1,19 @@
+q1: What is the capital of France?
+options: paris, lyon, Monaco, Rennes
+ans: paris
+
+q2: What is the name of largest ocean in the world?
+options: atlantic ocean, indian ocean, pacific ocean, arctic ocean
+ans: pacific ocean
+
+q3: What is the name of the closest star to earth?
+options: ton-618, pluto, mars, sun
+answer: sun
+
+q4: What is the name of the first man to walk on the moon?
+options: joe hendry, neil armstrong, albert dimario, robert lewandowski
+ans: neil armstrong
+
+q5: What is the name of the largest planet in our solar system?
+options: uranus, venus, jupiter, saturn
+ans: jupiter
